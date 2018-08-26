@@ -1,5 +1,15 @@
 # Foodshare
 
+## Statement of purpose
+This is an application that supports the idea of a shared economy and less waste of useful resources, in this case food.
+Users authenticated in the network will connect to providers of food that can be other users.
+Postings on what is available is publicaly published for the range of time that the provider stipulates.
+The providers of food give the name and ammount available as well as the minimal price, if any.
+Ex: Ricardo has two more big mugs of coffee available for $1 each, four pao de queijo from the previous day $.50 each. Nick is on his way to the subway and makes the request.
+As Ricardo accepts the request, Nick comes by and get the food outside of Ricardo's apartment. Nick gets a Venmo request from Ricardo based on the ammount he consumed. The minimun will be paid but Nick has the option to pay for more. 
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
